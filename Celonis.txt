@@ -1,1 +1,2 @@
-public void metod2(){};
+public void metod22(){};
+
