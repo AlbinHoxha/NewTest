@@ -1,1 +1,3 @@
 # NewTest
+
+metoda 2
